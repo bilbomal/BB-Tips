@@ -1,0 +1,9 @@
+http://127.0.0.1
+http://[::]/
+http://0000::1/ 4 http://0/
+http://localtest.me
+http://2130706433/
+http://0x7f000001/
+http://0x7f.0x00.0x00.0x01
+http://0177.0.0.01
+htspider_webtp://12ribbon7.0.0.1
