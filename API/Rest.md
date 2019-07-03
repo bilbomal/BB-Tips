@@ -1,5 +1,6 @@
 # Tools
   * ### Astra
+    ```docker run --rm -it --link astra-mongo:mongo -p 8094:8094 astra```
 
 # General
 * ### Test authorized endpoints without authorization
