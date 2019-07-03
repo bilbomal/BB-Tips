@@ -10,3 +10,5 @@
 # Different HTTP Methods
 * ### Using ```HEAD``` to bypass authentication
   * Find pages or endpoints in your web service that require authentication or authorization, and make a request using ```HEAD``` instead of ```GET```. If the service is secure, you should get a ```405 Method Not Allowed``` or ```501 Method Unimplemented``` response. If you get a ```200 OK``` response, you've disovered a vulnerability.
+* ### Test arbitrary HTTP methods
+  * The HTTP specification lists a few supported methods that web servers should handle. But since an HTTP request is just text, it's it's possible to send an arbitrary method in the request that's not in the specification, like ```FOO```. Make requests to your API using a random method and ensure you get a proper response back from the API. If a ```200 OK``` response is returned from any of these requests, further investigation is warranted.
