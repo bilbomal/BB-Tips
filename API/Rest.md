@@ -1,6 +1,8 @@
 # Tools
   * ### Astra
     ```docker run --rm -it --link astra-mongo:mongo -p 8094:8094 astra```
+  * ### Fuzzapi
+    ```docker-compose up``` 
 
 # General
 * ### Test authorized endpoints without authorization
