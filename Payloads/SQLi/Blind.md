@@ -1,7 +1,0 @@
-
-'
-\'
---'
-'--'
-@@versionz
-@@version
