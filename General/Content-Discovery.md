@@ -1,6 +1,6 @@
 
 ### 1.Methology
-##### Check for extensions
+##### Check for extensions:
 ```
 js
 yaml
