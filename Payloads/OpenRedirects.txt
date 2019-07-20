@@ -1,7 +1,0 @@
-javascript://https://vulnerablesite.com/%250A1?alert(1):0
-//google%2Ecom
-/\google%2Ecom
-\/google.com
-/\/\google%2Ecom
-\/\google%2Ecom
-\/\/google.com
