@@ -1,10 +1,10 @@
 
-### Github
+### 1. Github
 ```
 "company name" language:python/bash send_keys
 ```
-##### Automation
+#### 1.1 Automation
 GitGot
 
-### Google
+### 2. Google
 ```site:http://whois.com intext:Google Inc -inurl:google``` - Google Acquisitions
