@@ -5,4 +5,4 @@
 ```
 
 ### Google
-```site:(link: http://whois.com) whois.com intext:Google Inc -inurl:google``` - Google Acquisitions
+```site:http://whois.com intext:Google Inc -inurl:google``` - Google Acquisitions
